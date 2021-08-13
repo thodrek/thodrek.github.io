@@ -6,7 +6,7 @@ list_title: "News"
 ---
 <img style="float: right; padding-left:20px; padding-bottom:20px; width:150px;" src="/assets/photo.jpg">
 
-**<span style="color:red">Update:</span>** I am on leave at Apple, where I am leading the Knowledge Platform - ML team. After that, I will be joining the Department of Computer Science at ETH Zurich.
+**<span style="color:red">Update:</span>** I am on leave at Apple, where I lead the Knowledge Platform - ML team. After that, I will be joining the Department of Computer Science at ETH Zurich.
 
 I am an Assistant Proferssor at UW-Madison. I've also had the pleasure to cofound Inductiv, a company around HoloClean, that is now part of Apple. My lab works on the foundations of **structured intelligence systems**:
 
