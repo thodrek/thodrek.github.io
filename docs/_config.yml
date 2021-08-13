@@ -21,7 +21,7 @@
 title: Theodoros (Theo) Rekatsinas
 domain: thodrek.github.io
 email: thodrek@cs.wisc.edu
-email_noop: thodrek [at] cs.wisc.edu
+email_noop: thodrek [at] cs.wisc.edu, theo.rekatsinas [at] inf.ethz.ch
 description: >- # this means to ignore newlines until "baseurl:"
   Personal Website of Theodoros (Theo) Rekatsinas
 baseurl: "" # the subpath of your site, e.g. /blog

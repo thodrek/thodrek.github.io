@@ -4,5 +4,5 @@ title:  "news"
 categories: career
 ---
 * **June, 2021** New talk about Marius and Machine Learning Over Billion-Edge Graphs at [MLOpsWorld](https://mlopsworld.com/).
-* **March, 2021** Excited to be talking about Softwware 2.0 for Data Quality at the [Stanford ML Sys seminar](https://mlsys.stanford.edu).
+* **March, 2021** Excited to be talking about Software 2.0 for Data Quality at the [Stanford ML Sys seminar](https://mlsys.stanford.edu).
 * **February, 2021** Excited to talk about our work on Data Quality at [CMU (ML with Large Datasets)](https://10605.github.io)
