@@ -16,6 +16,7 @@ permalink: /papers/
 * [Data-Dependent Differentially Private Parameter Learning for Directed Graphical Models](http://proceedings.mlr.press/v119/chowdhury20a.html) Amrita Chowdhury et al. ICML 20
 * [A Statistical Perspective on Discovering Functional Dependencies in Noisy Data](https://dl.acm.org/doi/pdf/10.1145/3318464.3389749) Yunjia Zhang et al. SIGMOD 20
 * [Attention-based Learning For Missing Data Imputation in HoloClean](https://proceedings.mlsys.org/paper/2020/file/202cb962ac59075b964b07152d234b70-Paper.pdf) Richard Wu et al. MLSys 20
+* [Principal Component Networks: Parameter Reduction Early in Training](https://arxiv.org/abs/2006.13347) Roger Waleffe and Theodoros Rekatsinas Manuscript
 
 ### 2019
 * [Approximate Inference in Structured Instances with Noisy Categorical Observations](http://auai.org/uai2019/proceedings/papers/152.pdf) Alireza Heidari et al. UAI 19
