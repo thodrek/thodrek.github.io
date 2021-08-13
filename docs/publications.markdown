@@ -4,6 +4,8 @@ title: Papers
 permalink: /papers/
 ---
 
+## Selected Papers
+
 ### 2021
 * [Demo of Marius: A System for Large-scale Graph Embeddings](http://vldb.org/pvldb/vol14/p2759-mohoney.pdf) Anze Xie et al. VLDB demo 21
 * [Marius: Learning Massive Graph Embeddings on a Single Machine](https://arxiv.org/pdf/2101.08358.pdf) Jason Mohoney et al. OSDI 21
