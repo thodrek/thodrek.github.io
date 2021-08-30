@@ -7,6 +7,7 @@ permalink: /papers/
 ## Selected Papers
 
 ### 2021
+* [Picket: Guarding Against Corrupted Data in Tabular Data during Learning and Inference](https://arxiv.org/pdf/2006.04730.pdf) Zifan Liu et al. VLDB Journal 21
 * [Demo of Marius: A System for Large-scale Graph Embeddings](http://vldb.org/pvldb/vol14/p2759-mohoney.pdf) Anze Xie et al. VLDB demo 21
 * [Marius: Learning Massive Graph Embeddings on a Single Machine](https://arxiv.org/pdf/2101.08358.pdf) Jason Mohoney et al. OSDI 21
 * [On Robust Mean Estimation under Coordinate-level Corruption](http://proceedings.mlr.press/v139/liu21r.html) Zifan Liu et al. ICML 21
