@@ -7,7 +7,7 @@ list_title: "News"
 ---
 <img style="float: right; padding-left:20px; padding-bottom:20px; width:150px;" src="/assets/photo.jpg">
 
-**<span style="color:red">Update:</span>** I am currently on leave at Apple, where I lead the Knowledge Platform - Graph ML team. I will also be joining the Department of Computer Science at ETH Zurich where I will be part of the [Systems' Group](https://systems.ethz.ch). 
+**<span style="color:red">Update:</span>** I am currently on leave at Apple, where I lead the Knowledge Platform - Graph ML team. I will also be joining the Department of [Computer Science at ETH Zurich](https://inf.ethz.ch) where I will be part of the [Systems Group](https://systems.ethz.ch). 
 
 My lab focuses on the foundations of **structured intelligence systems**:
 
