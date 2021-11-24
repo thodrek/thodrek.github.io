@@ -9,7 +9,7 @@ list_title: "News"
 
 **<span style="color:red">Update:</span>** I am currently on leave at Apple, where I lead the Knowledge Platform - Graph ML team. I will also be joining the Department of [Computer Science at ETH Zurich](https://inf.ethz.ch) where I will be part of the [Systems Group](https://systems.ethz.ch). 
 
-<b>I am always looking for good students!</b> If interested in working on the above topics (at a PhD or PostDoc level) please reach out at theo.rekatsinas [at] inf.ethz.ch.
+<b>I am always looking for good students!</b> If interested in working on the topics below please reach out at theo.rekatsinas[at]inf.ethz.ch.
 
 My lab focuses on the foundations of **structured intelligence systems**:
 
