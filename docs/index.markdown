@@ -9,7 +9,7 @@ list_title: "News"
 
 **<span style="color:red">Update:</span>** I am currently on leave at Apple, where I lead the Knowledge Platform - Graph ML team. I will also be joining the Department of [Computer Science at ETH Zurich](https://inf.ethz.ch) where I will be part of the [Systems Group](https://systems.ethz.ch). 
 
-Previously, I was an Assistant Proferssor at UW-Madison and a member of the Database Group. I've also had the pleasure to **cofound Inductiv (acquired by Apple)**, a company developing AI for identifying and correcting errors in data.
+Previously, I was an Assistant Proferssor at UW-Madison and a member of the Database Group. I've also had the pleasure to be a **co-founder of Inductiv (acquired by Apple)**, a company developing AI for identifying and correcting errors in data.
 
 <b>I am always looking for good students!</b> If interested in working on the topics below please reach out at theo.rekatsinas[at]inf.ethz.ch.
 
