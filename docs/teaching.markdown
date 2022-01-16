@@ -23,6 +23,7 @@ permalink: /misc/
 * Finalist for the T.J. Tarn Best Paper Award in Robotics, IEEE ROBIO 2010
 
 ### Recent Service
+* Associate Editor for the ACM Journal of Data and Information Quality
 * Leadership Team, American Family Data Science Institute at UW-Madison, 2019 - 2020
 * Member of Organizing Committee: MLSys 2019, MLSys 2020, MLSys 2021, VLDB 2021
 * PC-Area Chair: SIGMOD 2019
