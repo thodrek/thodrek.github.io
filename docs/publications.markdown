@@ -6,6 +6,10 @@ permalink: /papers/
 
 ## Selected Papers
 
+### 2022
+* [Ember: No-Code Context Enrichment via Similarity-Based Keyless Joins](https://arxiv.org/abs/2106.01501) Sahaana Suri et al. VLDB 2022
+* [Can Transfer Learning be used to build a Query Optimizer?] Yunjia Zhang et al. CIDR 2022
+
 ### 2021
 * [Picket: Guarding Against Corrupted Data in Tabular Data during Learning and Inference](https://arxiv.org/pdf/2006.04730.pdf) Zifan Liu et al. VLDB Journal 21
 * [Demo of Marius: A System for Large-scale Graph Embeddings](http://vldb.org/pvldb/vol14/p2759-mohoney.pdf) Anze Xie et al. VLDB demo 21
