@@ -17,6 +17,7 @@ permalink: /misc/
 * NSF CISE Small Award, 2019
 * NSF CISE CRII Award, 2018
 * Hilldale Faculty/Undergraduate Research Fellowship, UW-Madison 2018
+* Moore Postdoctoral Fellow, Stanford CS 2015
 * Larry S. Davis Doctoral Dissertation Award, University of Maryland, College Park 2015
 * SIAM International Conference on Data Mining, Best Resarch Paper Award 2015
 * Microsoft Research Ph.D. Fellowship Finalist, 2013
@@ -30,4 +31,4 @@ permalink: /misc/
 * PC-Member: NeuRIPS 2015 – 2019, IJCAI 2016, ICML 2018 – 2019, VLDB 2017, 2020,SIGMOD 2017–2020, 2022, CIKM 2017–2018, 
 
 ### Bio (for talks)
-Bio: Theodoros (Theo) Rekatsinas is currently at Apple where he is leading the Knowledge Platform – Graph ML team. He is also an Assistant Professor in the Department of Computer Science at ETH Zürich and part of the Systems Group. Previously, Theo was an Assistant Professor at the University of Wisconsin-Madison and a member of the Database Group. Theo is also a co-founder of Inductiv (acquired by Apple), a company developing AI for identifying and correcting errors in data. Theo holds PhD and Masters Degrees in Computer Science from the University of Maryland - College Park. He also holds a Bachelors and Masters Degree in Electrical Engineering from the National Technical University of Greece.
+Bio: Theodoros (Theo) Rekatsinas is currently at Apple where he is leading the Knowledge Platform – Graph ML team. He is also an Assistant Professor in the Department of Computer Science at ETH Zürich and part of the Systems Group. Previously, Theo was an Assistant Professor at the University of Wisconsin-Madison and a member of the Database Group and a Moore Postdoctoral Fellow in Computer Science at Stanford. Theo is also a co-founder of Inductiv (acquired by Apple), a company developing AI for identifying and correcting errors in data. Theo holds PhD and Masters Degrees in Computer Science from the University of Maryland - College Park. He also holds a Bachelors and Masters Degree in Electrical Engineering from the National Technical University of Greece.
