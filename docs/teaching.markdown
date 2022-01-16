@@ -4,7 +4,8 @@ title: Teaching, Awards, Bio & Misc
 permalink: /misc/
 ---
 
-### Teaching at UW-Madison
+### Teaching 
+#### At UW-Madison
 * [CS839: Modern Data Management and Machine Learning Systems](https://thodrek.github.io/cs839_sp20/) Spring 20
 * [CS639: Data Management for Data Science](https://thodrek.github.io/cs639_spring19/) Spring 19
 * [CS839: Probabilisitc Graphical Models](https://thodrek.github.io/CS839_fall18/) Fall 18
