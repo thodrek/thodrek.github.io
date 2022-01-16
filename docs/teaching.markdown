@@ -19,6 +19,8 @@ permalink: /misc/
 
 ### Awards
 * Amazon Research Award, 2018
+* NSF CISE Small Award, 2019
+* NSF CISE CRII Award, 2018
 * Hilldale Faculty/Undergraduate Research Fellowship, UW-Madison 2018
 * Larry S. Davis Doctoral Dissertation Award, University of Maryland, College Park 2015
 * SIAM International Conference on Data Mining, Best Resarch Paper Award 2015
