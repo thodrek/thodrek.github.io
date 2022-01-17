@@ -3,7 +3,7 @@ layout: post
 title:  "news"
 categories: career
 ---
-* **January, 2022** Excited to talk about Data Debugging in ML at my Alma Meter, [NTUA](https://www.ece.ntua.gr/en/article/499).
+* **January, 2022** Excited to [talk about Data Debugging in ML](https://www.ece.ntua.gr/en/article/499) at my alma mater, [ECE @ NTUA](https://www.ece.ntua.gr/en).
 * **June, 2021** New talk about Marius and Machine Learning Over Billion-Edge Graphs at [MLOpsWorld](https://mlopsworld.com/events/marius-machine-learning-over-billion-edge-graphs-10x-faster-and-5x-cheaper/).
 * **March, 2021** Excited to be talking about Software 2.0 for Data Quality at the [Stanford ML Sys seminar](https://mlsys.stanford.edu).
 * **February, 2021** Excited to talk about our work on Data Quality at [CMU (ML with Large Datasets)](https://10605.github.io)
