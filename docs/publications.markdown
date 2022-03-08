@@ -8,6 +8,7 @@ permalink: /papers/
 
 ### 2022
 * [Marius++: Large-Scale Training of Graph Neural Networks on a Single Machine](https://arxiv.org/abs/2202.02365) Roger Waleffe et al., In Submission
+* [Machine Learning and Data Cleaning: Which Serves the Other?](https://dl.acm.org/doi/abs/10.1145/3506712?casa_token=mZhBPQyhC40AAAAA:9hOQ2jesD-zNQrHJUqLsxLEfcTEDpkt09UcimY6oriMkWfExA-faZgaeDgBAmWKV46WlhhguBT1s3w) Ihab Ilyas and Theodoros Rekatsinas Journal of Data and Information Quality 2022 (invited)
 * [Ember: No-Code Context Enrichment via Similarity-Based Keyless Joins](https://arxiv.org/abs/2106.01501) Sahaana Suri et al. VLDB 2022
 * [Can Transfer Learning be used to build a Query Optimizer?]() Yunjia Zhang et al. CIDR 2022
 
