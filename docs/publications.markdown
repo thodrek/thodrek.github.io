@@ -7,6 +7,7 @@ permalink: /papers/
 ## Selected Papers
 
 ### 2022
+* [Saga: A Platform for Continuous Construction and Serving of Knowledge At Scale](https://2022.sigmod.org/sigmod_industrial_list.shtml) Ihab Ilyas, Theodoros Rekatsinas, Vishnu Konda, Jeffrey Pound, Xiaoguang Qi, Mohamed Soliman. SIGMOD 2022 (Industry)
 * [Marius++: Large-Scale Training of Graph Neural Networks on a Single Machine](https://arxiv.org/abs/2202.02365) Roger Waleffe et al., In Submission
 * [Machine Learning and Data Cleaning: Which Serves the Other?](https://dl.acm.org/doi/abs/10.1145/3506712?casa_token=mZhBPQyhC40AAAAA:9hOQ2jesD-zNQrHJUqLsxLEfcTEDpkt09UcimY6oriMkWfExA-faZgaeDgBAmWKV46WlhhguBT1s3w) Ihab Ilyas and Theodoros Rekatsinas Journal of Data and Information Quality 2022 (invited)
 * [Ember: No-Code Context Enrichment via Similarity-Based Keyless Joins](https://arxiv.org/abs/2106.01501) Sahaana Suri et al. VLDB 2022
