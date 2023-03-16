@@ -7,6 +7,8 @@ list_title: "News"
 ---
 <img style="float: right; padding-left:20px; padding-bottom:20px; width:150px;" src="/assets/photo.jpg">
 
+**Update: Strarting February 2023, I will be dedicating my full time to the development of the next generation of Knowledge Construction and Serving platforms at Apple.**
+
 I am an Assistant Professor at the Department of [Computer Science at ETH Zurich](https://inf.ethz.ch) where I will lead the [Structured Intelligence Systems Group] (part of the [Systems Group](https://systems.ethz.ch)). I am also one of the leads in the Knowledge Platform team at Apple.
 
 Previously, I was a Senior Manager at Apple leading the Knowledge Platform - Graph ML team. I was also an Assistant Professor at UW-Madison and a member of the Database Group. I've also had the pleasure to be a **co-founder of Inductiv (acquired by Apple)**, a company developing AI for identifying and correcting errors in data.
