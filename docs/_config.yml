@@ -20,8 +20,8 @@
 
 title: Theodoros (Theo) Rekatsinas
 domain: thodrek.github.io
-email: theo.rekatsinas@inf.ethz.ch
-email_noop: theo.rekatsinas [at] inf.ethz.ch
+email: trekatsinas@apple.com
+email_noop: trekatsinas [at] apple.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal Website of Theodoros (Theo) Rekatsinas
 baseurl: "" # the subpath of your site, e.g. /blog
