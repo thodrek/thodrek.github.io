@@ -7,7 +7,7 @@ list_title: "News"
 ---
 <img style="float: right; padding-left:20px; padding-bottom:20px; width:150px;" src="/assets/photo.jpg">
 
-I am Researcher at Apple. Before that I co-founded Inductiv (acquired by Apple), a company that developed AI solutions for identifying and correcting errors in data. I was also a Professor of Computer Science at ETH Zürich and the University of Wisconsin-Madison. 
+I am a researcher at Apple. Before that I co-founded Inductiv (acquired by Apple), a company that developed AI solutions for identifying and correcting errors in data. I was also a Professor of Computer Science at ETH Zürich and the University of Wisconsin-Madison. 
 
 My research focuses on scalable machine learning algorithms and systems over relational data. Specifically, it explores the fundamental connections between data preparation, data integration, and knowledge management with statistical machine learning and probabilistic inference:
 
